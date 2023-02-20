@@ -1,2 +1,9 @@
-# TGIF_Docker4You
-Docker material for TGIF 25.2.2023
+# Debian Dev Container
+
+build:
+
+    $ ./build.sh
+
+run:
+
+    $ ./run.sh
