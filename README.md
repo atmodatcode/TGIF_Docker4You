@@ -4,11 +4,15 @@ DKRZ TGIF: 2023-02-24
 
 ## run mamba docker containter
 
-Get mamba container:
+Get a public docker image for mamba from DockerHub:
+
+https://hub.docker.com/r/condaforge/mambaforge 
+
+Pull mamba image:
 
     docker pull condaforge/mambaforge
 
-Run mamba container:
+Start mamba container:
 
     docker run --rm -it condaforge/mambaforge
 
